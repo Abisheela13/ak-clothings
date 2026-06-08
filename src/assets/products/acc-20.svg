@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="100%" height="100%" fill="#fff8f2" rx="24"/>
+  <g transform="translate(120,110)">
+    <circle cx="200" cy="140" r="62" fill="#fff0e6"/>
+    <rect x="170" y="230" width="60" height="26" rx="8" fill="#ffe6d6"/>
+  </g>
+  <text x="50%" y="540" font-size="22" text-anchor="middle" fill="#6b3a3f">Accessory 20</text>
+</svg>
